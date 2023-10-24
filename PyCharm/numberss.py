@@ -1,0 +1,5 @@
+num1 = int(input("vvedi pervoe chislo:"))
+num2 = int(input("vvedi vtoroe chislo:"))
+num3 = int(input("vvedi tretye chislo:"))
+num4 = int(input("vvedi chetvertoe chislo:"))
+print(f"{round((num1 + num2)/(num3 + num4),2)}")
